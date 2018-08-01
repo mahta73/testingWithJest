@@ -14,6 +14,9 @@
     "testURL": "http://localhost/"
   },
   "devDependencies": {
-    "jest": "^23.4.2" 
+    "jest": "^23.4.2"
+  },
+  "dependencies": {
+    "node-fetch": "^2.2.0"
   }
 }
